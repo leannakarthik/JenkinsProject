@@ -1,4 +1,4 @@
-package com.dailycodecicd.cicddemo;
+ package com.dailycodecicd.cicddemo;
 
 import org.junit.jupiter.api.Test;
 import org.slf4j.Logger;
@@ -13,7 +13,7 @@ class CicdDemoApplicationTests {
 	@Test
 	void contextLoads() {
 		logger.info("its my test class");
-		logger.info("its my test class");
+		logger.info("its my second  my test class");
 		assertEquals(true,true);
 	}
 
