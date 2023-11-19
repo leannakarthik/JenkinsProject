@@ -13,6 +13,7 @@ class CicdDemoApplicationTests {
 	@Test
 	void contextLoads() {
 		logger.info("its my test class");
+		logger.info("its my test class");
 		assertEquals(true,true);
 	}
 
